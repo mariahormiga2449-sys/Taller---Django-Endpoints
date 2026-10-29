@@ -116,10 +116,10 @@ Se utilizó Thunder Client, una extensión de Visual Studio Code que permite env
 
 Agregar aquí las capturas tomadas durante las pruebas:
 
-1. ![alt text](<Captura de pantalla 2026-10-29 031224.png>)
-2. ![alt text](<Captura de pantalla 2026-10-29 031249.png>)
-3. ![alt text](<Captura de pantalla 2026-10-29 031318.png>)
-4. ![alt text](<Captura de pantalla 2026-10-29 031339.png>)
+1. ![alt text](<Captura GET.png>)
+2. ![alt text](<Captura POST.png>)
+3. ![alt text](<Captura PUT.png>)
+4. ![alt text](<Captura DELETE.png>)
 
 ## 9. ¿Qué se concluye del taller?
 
