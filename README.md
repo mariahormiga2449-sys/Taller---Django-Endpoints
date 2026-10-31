@@ -77,7 +77,7 @@ CRUD representa las cuatro operaciones básicas para administrar información:
 | `save()` | Guarda los cambios realizados en un objeto. |
 | `delete()` | Elimina un objeto de la base de datos. |
 
-## 5. Fuentes consultadas
+## 5. Fuentes
 
 **Django Software Foundation.** Class-based views. Documentación oficial de Django.  
 https://docs.djangoproject.com/en/6.1/topics/class-based-views/
